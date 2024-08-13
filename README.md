@@ -17,7 +17,7 @@ You can just download a binary distribution for Windows here and run it:
 
 http://tiny.cc/lingoes-converter
 
-Or if you are having a running webserver, upload the source and point your browser address to:
+> Or if you are having a running webserver, upload the source and point your browser address to:
 
 `http://yourwebsite/converter.php?input=path/to/somefile.ld2&encodingWord=UTF-8&encodingDef=UTF-16LE`
 
